@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+
+.title-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width:100%;
+}
+
+.details-container {
+  width: 100%;
+}
